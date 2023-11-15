@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-ts-auth",
+  "name": "@jclind/cra-template-ts-auth",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
