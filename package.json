@@ -1,0 +1,21 @@
+{
+  "name": "@jclind/cra-template-ts-auth",
+  "version": "0.2.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "firebase"
+  ],
+  "description": "Create react app template with typescript and firebase authentication",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jclind/cra-template-ts-auth.git",
+    "directory": "/"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

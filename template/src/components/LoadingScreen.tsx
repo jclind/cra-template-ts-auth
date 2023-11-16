@@ -1,3 +1,4 @@
+import React from 'react'
 import { PiSpinnerThin } from 'react-icons/pi'
 
 export const LoadingScreen = ({ message = 'loading...' }) => {
